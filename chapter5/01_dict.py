@@ -1,3 +1,4 @@
+d = {} # to createEmpty Dictionary
 # marks= {
 #     "Avneesh": 80,
 #     "Rohan" : 77,
