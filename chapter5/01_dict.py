@@ -87,5 +87,3 @@ print("10. setdefault('city', 'Raipur'):", temp)
 temp = student.copy()
 temp.update({"branch": "AI", "age": 19})
 print("11. update():", temp)
-
-
